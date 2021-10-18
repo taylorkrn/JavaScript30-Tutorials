@@ -79,10 +79,11 @@
       const now = new Date();
       const seconds = now.getSeconds();
       const secondsDegrees = ((seconds/60)*360) + 90;
-      if (secondsDegrees == 90){
+      if (secondsDegrees === 90){
         secondsHand.style.transition = "none";
         secondsHand.style.transform = `rotate(${secondsDegrees}deg)`;
-        secondsHand.style.transform = "all 0.05s cubic-bezier(0.1, 2.7, 0.58, 1)";
+        secondsHand.style.transform = "all 0.05s";
+        secondsHand.style.transitionTimingFunction = "cubic-bezier(0.1, 2.7, 0.58, 1)";
       } else{
         secondsHand.style.transform = `rotate(${secondsDegrees}deg)`;
       }
@@ -90,10 +91,11 @@
 
       const minutes = now.getMinutes();
       const minutesDegrees = ((minutes/60)*360) + 90;
-      if (minutesDegrees == 90){
+      if (minutesDegrees === 90){
         minutesHand.style.transition = "none";
         minutesHand.style.transform = `rotate(${minutesDegrees}deg)`;
-        minutesHand.style.transition = "all 0.05s cubic-bezier(0.1, 2.7, 0.58, 1)";
+        minutesHand.style.transform = "all 0.05s";
+        minutesHand.style.transitionTimingFunction = "cubic-bezier(0.1, 2.7, 0.58, 1)";
       } else{
         minutesHand.style.transform = `rotate(${minutesDegrees}deg)`;
       }
@@ -101,10 +103,11 @@
 
       const hours = now.getHours();
       const hoursDegrees = ((hours/12)*360) + 90;
-      if (hoursDegrees == 90){
+      if (hoursDegrees === 90){
         hoursHand.style.transition = "none";
         hoursHand.style.transform = `rotate(${hoursDegrees}deg)`;
-        hoursHand.style.transition = "all 0.05s cubic-bezier(0.1, 2.7, 0.58, 1)";
+        hoursHand.style.transform = "all 0.05s";
+        hoursHand.style.transitionTimingFunction = "cubic-bezier(0.1, 2.7, 0.58, 1)";
       } else{
         hoursHand.style.transform = `rotate(${hoursDegrees}deg)`;
       }
