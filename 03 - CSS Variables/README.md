@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/taylorkrn/JavaScript30-Tutorials/main/03%20-%20CSS%20Variables/screenshot.png)
 
-# Tutorial 2: CSS Variables
+# Tutorial 3: CSS Variables
 
 ## Edit Image using CSS Variables
 

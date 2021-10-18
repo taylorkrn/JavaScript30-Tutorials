@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/taylorkrn/JavaScript30-Tutorials/main/05%20-%20Flex%20Panel%20Gallery/screenshot.png)
 
-# Tutorial 2: Flex Panel Gallery
+# Tutorial 5: Flex Panel Gallery
 
 ## Responsive Flex Panels
 
