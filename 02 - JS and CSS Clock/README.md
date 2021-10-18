@@ -1,4 +1,4 @@
-![]()
+![](https://raw.githubusercontent.com/taylorkrn/JavaScript30-Tutorials/main/02%20-%20JS%20and%20CSS%20Clock/screenshot.png)
 
 # Tutorial 2: JS Clock
 
