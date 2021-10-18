@@ -1,6 +1,8 @@
 
+![]()
 
- Java Script 30 Tutorials (https://javascript30.com/)
+# Java Script 30 Tutorials (https://javascript30.com/)
 
- Each Folder is a new Tutorial Task
- Each task has its own README file with screenshots
+## Each Folder contains a new Tutorial Task with it's own individual README.md file and screenshots
+
+
