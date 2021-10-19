@@ -1,5 +1,7 @@
 ![](https://raw.githubusercontent.com/taylorkrn/JavaScript30-Tutorials/main/24%20-%20Sticky%20Nav/screenshot.png)
 
+Once scrolled down (Sticky)
+
 ![](https://raw.githubusercontent.com/taylorkrn/JavaScript30-Tutorials/main/24%20-%20Sticky%20Nav/screenshot2.png)
 
 # Tutorial 24: Sticky Nav
